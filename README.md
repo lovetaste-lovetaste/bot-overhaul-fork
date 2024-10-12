@@ -1,7 +1,7 @@
 This is a heavily edited version of Showin's bot overhaul
 (heavily edited as in practically seperate things aside from a couple important functions that i was too lazy to make myself)
 
-ive only posted the spy changes as that is the one im focusing the most on right now.
+ive only posted the spy changes as that is the one im focusing the most on right now. After that comes Pyro changes.
 Bot Commands to put into whatever server cfg you have:
 
 
