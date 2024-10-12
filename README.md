@@ -17,7 +17,10 @@ nb_head_aim_settle_duration 1.2
 nb_head_aim_steady_max_rate 0.5
 
 
-This makes the bot more realistic, as it gives them more humanlike reaction times.
+This makes the bot more realistic, as it gives them more humanlike reaction times. I tried to make them also have humanlike
+aim, but considering the only way to do that is to completely nuke its aim and make it basically a punching bag, I have
+decided against that. The bots should aim fine, but the aim is still somewhat robotic
 
-If you REALLY want to see the spy bot and how much its improved versus the stock bots:
-make sure to put the GiveBotsMoreWeapons_Pub plugin, and set the bots to easy (tf_bot_difficulty 0)
+If you REALLY want to see the spy bot's potential and how much its improved versus the stock bots:
+make sure to put the GiveBotsMoreWeapons_Pub plugin, and set the bots to easy (tf_bot_difficulty 0).
+really funny
