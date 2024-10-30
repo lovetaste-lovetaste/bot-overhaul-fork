@@ -1,7 +1,14 @@
 This is a heavily edited version of Showin's bot overhaul
-(heavily edited as in practically seperate things aside from a couple important functions that i was too lazy to make myself)
+(heavily edited as in practically seperate things aside from a couple important functions that i was too lazy to make myself).
+As of right now, the large majority of the changes are specific to Spy, with some changes to overall classes. Soon, everyone will be changed.
 
-ive only posted the spy changes as that is the one im focusing the most on right now. After that comes Pyro changes.
+
+Commands:
+"sm_ai_spy_debug", to toggle debug output into console.
+"sm_ai_spy_enabled", to enable and disable the Spy.
+
+
+
 Bot Commands to put into whatever server cfg you have:
 
 
